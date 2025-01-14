@@ -1,2 +1,2 @@
-# Cafe-Menu-Basic-CSS
+# Cafe-Menu FreeCodeCamp Projects
 Basic CSS Project
